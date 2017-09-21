@@ -1,1 +1,1 @@
-# vuejs-2-the-complete-guide
+# vuejs-2-course-udemy
